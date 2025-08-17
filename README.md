@@ -4,7 +4,7 @@ A simple **Tic Tac Toe** (X and O) game built using **HTML, CSS, and JavaScript*
 Play against a friend and enjoy the classic game in the browser.
 
 ## 🔗 Live Demo
-👉 [Play the game here]()
+👉 [Play the game here](https://rajivv26.github.io/tic-tac-toe/)
 
 ## ✨ Features
 - Two-player mode (Player X vs Player O)
