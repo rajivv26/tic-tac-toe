@@ -20,12 +20,10 @@ Play against a friend and enjoy the classic game in the browser.
 ## 📚 Learning Goals
 - Practicing DOM manipulation in JavaScript
 - Handling click events
-- Building game logic (win, draw conditions)
+- Building game logic (win, conditions)
 - Improving CSS layout skills
 
 ## 🚀 Future Improvements
 - Add single-player mode with AI
 - Scoreboard tracking (Player X vs Player O)
 - Better animations and sound effects
-
-⭐ Feel free to fork this repo, improve the game, and share your version!
